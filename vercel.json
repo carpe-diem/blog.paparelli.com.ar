@@ -1,9 +1,5 @@
 {
-  "buildCommand": "hugo --minify",
+  "buildCommand": "curl -L https://github.com/gohugoio/hugo/releases/download/v0.161.1/hugo_extended_0.161.1_linux-amd64.tar.gz | tar -xz && ./hugo --minify",
   "outputDirectory": "public",
-  "framework": null,
-  "env": {
-    "HUGO_VERSION": "0.161.1",
-    "HUGO_EXTENDED": "true"
-  }
+  "framework": null
 }

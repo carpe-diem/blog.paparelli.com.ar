@@ -13,6 +13,7 @@ buildExpired = false
   minifyOutput = true
 
 [params]
+  cusdisAppId = "de17ce99-2bca-4434-b084-5e9a17894142"
   env = "production"
   author = "Alberto Paparelli"
   description = "Blog sobre desarrollo, IA, proyectos y más."
