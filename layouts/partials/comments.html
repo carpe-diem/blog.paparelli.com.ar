@@ -1,0 +1,11 @@
+{{- if .Params.comments | default .Site.Params.comments }}
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="{{ .Site.Params.cusdisAppId }}"
+  data-page-id="{{ .File.UniqueID }}"
+  data-page-url="{{ .Permalink }}"
+  data-page-title="{{ .Title }}"
+  data-theme="{{ if eq .Site.Params.defaultTheme `dark` }}dark{{ else }}light{{ end }}">
+</div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+{{- end }}
