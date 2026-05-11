@@ -1,5 +1,5 @@
 baseURL = "https://blog.paparelli.com.ar"
-title = "Alberto Paparelli"
+title = "Playing at Carpe Diem"
 paginate = 10
 theme = "PaperMod"
 defaultContentLanguage = "es"
@@ -36,8 +36,8 @@ buildExpired = false
   tocopen = false
 
   [params.homeInfoParams]
-    Title = "Hola, soy Alberto"
-    Content = "Desarrollo software, experimento con IA y escribo sobre lo que aprendo en el camino."
+    Title = "Hi, I'm Alberto 👋"
+    Content = "I build software, experiment with AI, and write about what I learn along the way, projects, dev rabbit holes, and whatever I'm currently obsessing over."
 
   [[params.socialIcons]]
     name = "github"
@@ -45,7 +45,7 @@ buildExpired = false
 
   [[params.socialIcons]]
     name = "x"
-    url = "https://x.com/albertopaparelli"
+    url = "https://x.com/carpedev"
 
   [[params.socialIcons]]
     name = "linkedin"
@@ -72,7 +72,7 @@ buildExpired = false
 [menu]
   [[menu.main]]
     identifier = "search"
-    name = "Buscar"
+    name = "Search"
     url = "/search/"
     weight = 10
   [[menu.main]]
@@ -82,12 +82,12 @@ buildExpired = false
     weight = 20
   [[menu.main]]
     identifier = "categories"
-    name = "Categorías"
+    name = "Categories"
     url = "/categories/"
     weight = 30
   [[menu.main]]
     identifier = "about"
-    name = "Sobre mí"
+    name = "About"
     url = "/about/"
     weight = 40
 

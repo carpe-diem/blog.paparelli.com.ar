@@ -1,5 +1,5 @@
 ---
-title: "Sobre mí"
+title: "About"
 date: 2026-05-11
 author: "Alberto Paparelli"
 showToc: false
@@ -7,10 +7,14 @@ hidemeta: true
 comments: false
 ---
 
-Hola, soy Alberto Paparelli. Desarrollo software, construyo herramientas, y de vez en cuando escribo sobre lo que aprendo.
+Hi, I'm Alberto Paparelli. I build software, ship side projects, and write about what I learn along the way.
 
-Actualmente trabajo en proyectos relacionados con IA, seguridad y extensiones de Chrome. Uno de mis proyectos es [OTPilot](https://github.com/carpe-diem), una extensión para gestionar tokens 2FA directamente desde el navegador.
+I'm currently pursuing a Master's degree in Artificial Intelligence. My main tools are Python, Go and Rust, and I'm particularly interested in the intersection of AI and practical software engineering.
 
-También me interesa la investigación académica: papers, tesis y todo lo que tenga que ver con ciencia de la computación.
+Some of the things I'm building:
 
-Podés encontrarme en [GitHub](https://github.com/carpe-diem) o escribirme a [alberto@paparelli.com.ar](mailto:alberto@paparelli.com.ar).
+- **[OTPilot](https://github.com/carpe-diem/OTPilot)** — a Chrome extension that auto-fills 2FA codes. No phone, no copy-pasting.
+- **[GitArena](https://gitarena.app)** — turns pull request reviews into a competitive sport.
+- **[StoryPlace](https://storyplace.io)** — helps startups collect, analyze, and prioritize product feedback.
+
+You can find me on [GitHub](https://github.com/carpe-diem) or reach me at [alberto@paparelli.com.ar](mailto:alberto@paparelli.com.ar).
