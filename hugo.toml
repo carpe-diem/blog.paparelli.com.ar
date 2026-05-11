@@ -1,6 +1,6 @@
 baseURL = "https://blog.paparelli.com.ar"
 title = "Playing at Carpe Diem"
-paginate = 10
+paginate = 5
 theme = "PaperMod"
 defaultContentLanguage = "es"
 enableRobotsTXT = true
@@ -51,14 +51,6 @@ buildExpired = false
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://linkedin.com/in/albertopaparelli"
-
-  [[params.socialIcons]]
-    name = "email"
-    url = "mailto:alberto@paparelli.com.ar"
-
-  [[params.socialIcons]]
-    name = "rss"
-    url = "/index.xml"
 
   [params.fuseOpts]
     isCaseSensitive = false

@@ -17,4 +17,4 @@ Some of the things I'm building:
 - **[GitArena](https://gitarena.app)** — turns pull request reviews into a competitive sport.
 - **[StoryPlace](https://storyplace.io)** — helps startups collect, analyze, and prioritize product feedback.
 
-You can find me on [GitHub](https://github.com/carpe-diem) or reach me at [alberto@paparelli.com.ar](mailto:alberto@paparelli.com.ar).
+You can find me on [GitHub](https://github.com/carpe-diem), [X](https://x.com/carpedev), or [LinkedIn](https://linkedin.com/in/albertopaparelli).
