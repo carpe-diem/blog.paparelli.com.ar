@@ -1,12 +1,14 @@
 baseURL = "https://blog.paparelli.com.ar"
 title = "Playing at Carpe Diem"
-paginate = 5
 theme = "PaperMod"
 defaultContentLanguage = "es"
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
+
+[pagination]
+  pagerSize = 5
 
 [minify]
   disableXML = true
