@@ -7,6 +7,9 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
+[services.googleAnalytics]
+  ID = "G-5VNETW7W8R"
+
 [pagination]
   pagerSize = 5
 
