@@ -2,7 +2,7 @@
 title: "Permission denied en AWS"
 date: 2013-11-04
 description: "Cómo solucionar el error 'Permission denied (publickey)' al conectarse por SSH a una instancia EC2."
-tags: ["amazon", "aws", "ec2", "gnu/linux"]
+tags: ["aws", "ec2", "linux", "ssh", "troubleshooting"]
 categories: ["devops"]
 author: "Alberto Paparelli"
 showToc: true

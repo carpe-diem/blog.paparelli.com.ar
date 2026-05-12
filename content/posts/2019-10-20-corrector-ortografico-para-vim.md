@@ -2,7 +2,7 @@
 title: "Corrector ortográfico para Vim"
 date: 2019-10-20
 description: "Cómo habilitar el corrector ortográfico en Vim, con soporte para español e inglés."
-tags: ["vim", "gnu/linux", "configuración"]
+tags: ["vim", "linux", "spell-check", "config"]
 categories: ["linux"]
 author: "Alberto Paparelli"
 showToc: true

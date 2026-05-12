@@ -2,8 +2,8 @@
 title: "Aplicaciones para servidor de Conectar Igualdad"
 date: 2013-10-29
 description: "Aplicaciones para los servidores del plan Conectar Igualdad: instalación y detalles del proyecto."
-tags: ["python", "conectar-igualdad", "gnu/linux"]
-categories: ["proyectos"]
+tags: ["python", "conectar-igualdad", "linux", "education"]
+categories: ["projects", "open-source"]
 author: "Alberto Paparelli"
 showToc: true
 TocOpen: false

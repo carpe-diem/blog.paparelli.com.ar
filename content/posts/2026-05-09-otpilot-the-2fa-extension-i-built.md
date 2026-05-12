@@ -3,7 +3,7 @@ title: "OTPilot: The 2FA extension I built because I was tired of copy-pasting"
 date: 2026-05-09
 description: "A Chrome extension that auto-fills TOTP codes directly into login pages — no phone needed."
 tags: ["otpilot", "chrome-extension", "2fa", "security", "open-source"]
-categories: ["proyectos"]
+categories: ["projects", "open-source"]
 author: "Alberto Paparelli"
 showToc: true
 TocOpen: false

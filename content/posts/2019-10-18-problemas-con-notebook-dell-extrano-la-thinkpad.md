@@ -2,7 +2,7 @@
 title: "Problemas con Notebook Dell (Extraño la ThinkPad)"
 date: 2019-10-18
 description: "Cómo solucionar el problema del touchpad que deja de funcionar después del suspend en una Dell G3 con Arch Linux."
-tags: ["dell", "systemd", "archlinux", "gnu/linux"]
+tags: ["dell", "systemd", "arch-linux", "linux", "hardware", "troubleshooting"]
 categories: ["linux"]
 author: "Alberto Paparelli"
 showToc: true

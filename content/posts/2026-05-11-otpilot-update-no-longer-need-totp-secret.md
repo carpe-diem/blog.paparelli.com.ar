@@ -3,7 +3,7 @@ title: "OTPilot update: you no longer need to know what a \"TOTP secret\" is"
 date: 2026-05-11
 description: "OTPilot now detects accounts automatically from QR codes and adds an inline unlock prompt — no base32 strings required."
 tags: ["otpilot", "chrome-extension", "2fa", "security", "open-source"]
-categories: ["proyectos"]
+categories: ["projects", "open-source"]
 author: "Alberto Paparelli"
 showToc: true
 TocOpen: false

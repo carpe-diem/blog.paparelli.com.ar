@@ -3,7 +3,7 @@ title: "ScrumBut, pero peor (Mucho peor)"
 date: 2016-01-03
 description: "Una retrospectiva post-proyecto sobre cómo aplicamos Scrum de manera incorrecta durante dos años."
 tags: ["scrum", "agile", "management"]
-categories: ["reflexiones"]
+categories: ["opinion"]
 author: "Alberto Paparelli"
 showToc: true
 TocOpen: false
