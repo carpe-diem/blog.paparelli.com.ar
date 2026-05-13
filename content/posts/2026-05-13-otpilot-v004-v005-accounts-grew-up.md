@@ -1,6 +1,6 @@
 ---
 title: "OTPilot v0.0.4 and v0.0.5: Accounts grew up, and it shows"
-date: 2026-05-13T18:12:00-03:00
+date: 2026-05-13T18:10:00-03:00
 description: "Two packed releases: multi-account picker, redesigned account list, selective export, and import with merge. OTPilot is starting to feel like a finished product."
 tags: ["otpilot", "chrome-extension", "2fa", "buildinpublic", "opensource", "productivity", "security"]
 categories: ["projects", "open-source"]
