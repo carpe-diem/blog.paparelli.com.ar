@@ -1,6 +1,6 @@
 ---
 title: "Teaching Claude about your codebase, once, for everyone"
-date: 2026-06-09T10:01:00-03:00
+date: 2026-06-09T01:00:00-03:00
 description: "30% of Claude Code tool calls in my sessions are Read operations Claude exploring the codebase before it can do anything useful. Here's the experiment we're running to fix that at team scale."
 tags: ["claude-code", "ai-tools", "developer-productivity", "llm"]
 categories: ["experiments", "tools"]
