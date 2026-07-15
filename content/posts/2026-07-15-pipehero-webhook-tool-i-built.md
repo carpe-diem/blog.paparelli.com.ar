@@ -1,6 +1,6 @@
 ---
 title: "PipeHero: the webhook tool I built because I needed it"
-date: 2026-07-15T12:00:00-03:00
+date: 2026-07-15T00:00:00-03:00
 description: "Why I built PipeHero, a webhook tunneling and debugging tool, after getting tired of re-pasting tunnel URLs while building GitArena. Includes an MCP server so AI agents can inspect and replay webhooks directly."
 tags: ["pipehero", "webhooks", "developer-tools", "ai-tools", "mcp", "buildinpublic", "rust"]
 categories: ["projects", "tools"]
